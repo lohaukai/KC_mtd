@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.debug.606540431/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.606540431/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.exe.debug.606540431/PATH/value=/opt/buildroot-gcc463/usr/bin\:/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin
+environment/project/cdt.managedbuild.config.gnu.exe.debug.606540431/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.debug.606540431/appendContributed=true
